@@ -74,13 +74,6 @@ void _RusHErrr(int tt) {
     /*
      Write Your Code Here--> 
     */
-
-    #include<bits/stdc++.h>
-
-  
-
-    
-
 }
 
 int32_t main() {
