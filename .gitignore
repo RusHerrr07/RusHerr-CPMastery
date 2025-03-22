@@ -1,0 +1,6 @@
+*.swp
+compile_flags.txt
+*.exe
+out*
+in*
+*.out
